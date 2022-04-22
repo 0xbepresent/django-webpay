@@ -1,4 +1,4 @@
-:no_entry: [DEPRECATED] El uso de KCC (archivos CGI) ha quedado obsoleto por parte de Transbank.
+:no_entry: [DEPRECATED] El uso de KCC (archivos CGI) ha quedado obsoleto por parte de Transbank. (backed)
 
 Django-webpay
 =============
